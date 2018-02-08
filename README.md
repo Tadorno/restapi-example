@@ -1,3 +1,3 @@
 # restapi-example
 
-Arquitetura básica com Crud, exclusão lógica e integração com Swagger
+Arquitetura básica de um projeto Spring Boot apresentando um Crud com exclusão lógica e integração com Swagger
